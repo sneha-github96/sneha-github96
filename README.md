@@ -8,7 +8,7 @@ I love learning, and I love making learning simple and joyful for others.
 
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
 - 💬 Ask me about: all-things-docs, tech writing, devRel, building accessible docs, and project management.
-- 📫 How to reach me: [Twitter](https://twitter.com/amrithaasneha) & [LinkedIn](https://www.linkedin.com/in/sneha-sridharan/), or email me at amrithaasneha@gmail.com
+- 📫 How to reach me: [Twitter](https://twitter.com/amrithaasneha) & [LinkedIn](https://www.linkedin.com/in/sneha-sridharan/), or email me at amrithaasneha@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy cooking and reading books related to entrepreneurship and psychology.
 ------------------------------------
