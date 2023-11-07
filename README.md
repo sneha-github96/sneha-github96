@@ -1,7 +1,6 @@
 <h1 align="center">Hi There 👋! I'm Sneha Sridharan</h1>
 
-<p align="center"> [Twitter](https://twitter.com/amrithaasneha) | [LinkedIn](https://www.linkedin.com/in/sneha-sridharan/) | [Medium Blog](https://thetechwritersjournal.medium.com/) </p>
-My Blog | Twitter | LinkedIn | Likeam5 Blog | Polywork Profile
+<p align="center"> <a href="https://twitter.com/amrithaasneha">Twitter</a> [Twitter](https://twitter.com/amrithaasneha) | [LinkedIn](https://www.linkedin.com/in/sneha-sridharan/) | [Medium Blog](https://thetechwritersjournal.medium.com/) </p>
 
 I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
