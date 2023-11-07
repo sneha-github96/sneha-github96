@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi There! I'm Sneha Sridharan
+# Hi There 👋! I'm Sneha Sridharan
 ---------------------------------
 I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
