@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**sneha-github96/sneha-github96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There! I'm Sneha Sridharan
+---------------------------------
+I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
-Here are some ideas to get you started:
+I love learning, and I love making learning simple and joyful for others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m new to the world of open-source; attempting to improve doc repos that inspire me.
+- 💬 Ask me about all-things-docs, tech writing, devRel, building accessible docs, project management.
+- 📫 How to reach me: Twitter & LinkedIn, or email me at amrithaasneha@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy cooking and reading books related to entrepreneurship and psychology.
+------------------------------------
+
+Brevity is pivotal to clarity. 
+
