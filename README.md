@@ -1,4 +1,5 @@
 <h1 align="center">Hi There 👋! I'm Sneha Sridharan</h1>
+<h3 align="center">Twitter| LinkedIn| Medium Blog</h3>
 
 I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
