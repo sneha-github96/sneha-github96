@@ -13,5 +13,5 @@ I love learning, and I love making learning simple and joyful for others.
 - ⚡ Fun fact: I enjoy cooking and reading books related to entrepreneurship and psychology.
 ------------------------------------
 
-Brevity is pivotal to clarity. 
+<h1 align="center">Brevity is pivotal to clarity.</h1>
 
