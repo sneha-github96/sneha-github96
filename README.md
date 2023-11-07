@@ -1,5 +1,4 @@
-# Hi There 👋! I'm Sneha Sridharan
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Hi There 👋! I'm Sneha Sridharan</h1>
 ---------------------------------
 I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
