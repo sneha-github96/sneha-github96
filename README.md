@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./giphy.gif" width="100" height="100" /><h1 align="center">👋 Hello there! Fancy seeing you here!</h1>
+<h1 align="center"><img alt="GIF" src="./giphy.gif" width="100" height="100">👋 Hello there! Fancy seeing you here!</h1>
 
 <h3 align="center"> <a href="https://twitter.com/amrithaasneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehatwitter" height="30" width="40" /></a> | <a href="https://linkedin.com/in/sneha-sridharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehalinkedin" height="30" width="40" /></a></h3>
 
