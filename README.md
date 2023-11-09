@@ -24,6 +24,7 @@ I love learning, and sharing my knowledge with others.
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
 - 💬 Ask me about: all-things-docs, documentation, devRel, building accessible docs, and project management.
 - 😄 Pronouns: She/Her
+- :round_pushpin: Based in Bengaluru, India
 - ⚡ Fun fact: The next thing on my bucket-list is to see the northen lights :milky_way:.
 
 **Expand to view**
@@ -34,4 +35,5 @@ I love learning, and sharing my knowledge with others.
 
 *****
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
