@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there! Fancy seeing you here!</h1>
 
-<h3 align="center"> <a href="https://twitter.com/amrithaasneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehatwitter" height="30" width="40" /></a> **.** <a href="https://linkedin.com/in/sneha-sridharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehalinkedin" height="30" width="40" /></a></h3>
+<h3 align="center"> <a href="https://twitter.com/amrithaasneha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snehatwitter" height="30" width="40" /></a> . <a href="https://linkedin.com/in/sneha-sridharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehalinkedin" height="30" width="40" /></a></h3>
 
 I'm a Technical Writer passionate about making the web accessible to everyone, currently working at [Oracle](https://www.oracle.com/in/). I enjoy breaking down complex technical concepts into simple, easy-to-understand digital stories, thereby helping people achieve what they intend to do.
 
