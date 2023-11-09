@@ -7,7 +7,7 @@
 I'm a passionate digital storyteller. I enjoy breaking down complex technical concepts into simple, easy-to-understand, accessible stories, thereby helping people achieve what they intend to do.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="318" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="319" />
 
 I love learning, and I love making learning simple and joyful for others.
 
