@@ -22,7 +22,7 @@ I love learning, and sharing my knowledge with others.
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sneha-github96&show_icons=true" />
 </details>
-------------------------------------
 
+*****
 <h1 align="center">Brevity is pivotal to clarity.</h1>
 
