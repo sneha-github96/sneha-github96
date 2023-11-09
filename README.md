@@ -21,7 +21,7 @@ I love learning, and sharing my knowledge with others.
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
-- 💬 Ask me about: all-things-docs, documentation, devRel, building accessible docs, and project management.
+- 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
 - 😄 Pronouns: She/Her
 - :round_pushpin: Based in Bengaluru, India
 - :open_book: Currently reading Docs for Developers
