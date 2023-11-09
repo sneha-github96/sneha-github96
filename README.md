@@ -7,7 +7,7 @@
 I'm a Technical Writer passionate about making the web accessible to everyone. I enjoy breaking down complex technical concepts into simple, easy-to-understand digital stories, thereby helping people achieve what they intend to do.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="319" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 I love learning, and sharing my knowledge with others.
 
@@ -20,7 +20,7 @@ I love learning, and sharing my knowledge with others.
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sneha-github96&show_icons=true" />
 </details>
 ------------------------------------
 
