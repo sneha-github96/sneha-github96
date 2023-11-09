@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm Sneha Sridharan! <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h1>
+<h1 align="center">👋 Hello there, I'm Sneha Sridharan! <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=sneha-github96&style=flat-square"></h1>
 
 
 I'm a Technical Writer :black_nib: passionate about making the web accessible to everyone, currently working at [Oracle](https://www.oracle.com/in/). I enjoy breaking down complex technical concepts into simple, easy-to-understand digital stories, thereby helping people achieve what they intend to do.
