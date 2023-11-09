@@ -16,6 +16,12 @@ I love learning, and sharing my knowledge with others.
 - 📫 How to reach me: [Twitter](https://twitter.com/amrithaasneha) & [LinkedIn](https://www.linkedin.com/in/sneha-sridharan/), or email me at amrithaasneha@gmail.com.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy cooking and reading books related to entrepreneurship and psychology.
+
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+</details>
 ------------------------------------
 
 <h1 align="center">Brevity is pivotal to clarity.</h1>
