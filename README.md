@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! Fancy seeing you here!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello there! Fancy seeing you here!</h1>
 
 <h3 align="center"> <a href="https://twitter.com/amrithaasneha">Twitter</a> | <a href="https://www.linkedin.com/in/sneha-sridharan/">LinkedIn</a> | <a href="https://thetechwritersjournal.medium.com/">Medium</a> | <a href="https://letters4sneha.gitbook.io/sneha-sridharan/">Portfolio</a></h3>
 
