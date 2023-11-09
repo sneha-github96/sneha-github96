@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there! Fancy seeing you here!</h1>
 
-<h3 align="center"> <a href="https://twitter.com/amrithaasneha">Twitter</a> | <a href="https://www.linkedin.com/in/sneha-sridharan/">LinkedIn</a> | <a href="https://thetechwritersjournal.medium.com/">Medium Blog</a> | <a href="https://letters4sneha.gitbook.io/sneha-sridharan/">Portfolio</a></h3>
+<h3 align="center"> <a href="https://twitter.com/amrithaasneha">Twitter</a> | <a href="https://www.linkedin.com/in/sneha-sridharan/">LinkedIn</a> | <a href="https://thetechwritersjournal.medium.com/">Medium</a> | <a href="https://letters4sneha.gitbook.io/sneha-sridharan/">Portfolio</a></h3>
 
 I'm a Technical Writer passionate about making the web accessible to everyone. I enjoy breaking down complex technical concepts into simple, easy-to-understand digital stories, thereby helping people achieve what they intend to do.
 
