@@ -24,7 +24,7 @@ I love learning, and sharing my knowledge with others.
 - 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
 - 😄 Pronouns: She/Her
 - :round_pushpin: Based in Bengaluru, India
-- :open_book: Currently reading Docs for Developers
+- :open_book: Currently reading: Docs for Developers
 - :mailbox: amrithaasneha@gmail.com
 - ⚡ Fun fact: The next thing on my bucket-list is to see the northen lights :milky_way:.
 
