@@ -6,10 +6,10 @@
 
 I'm a Technical Writer passionate about making the web accessible to everyone. I enjoy breaking down complex technical concepts into simple, easy-to-understand digital stories, thereby helping people achieve what they intend to do.
 
+I love learning, and sharing my knowledge with others.
+
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-I love learning, and sharing my knowledge with others.
 
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
 - 💬 Ask me about: all-things-docs, tech writing, devRel, building accessible docs, and project management.
