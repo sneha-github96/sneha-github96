@@ -20,7 +20,7 @@ I love learning, and sharing my knowledge with others.
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
+- 🌱 I’m currently working on contributing to open-source projects that inspire me :sparkles:.
 - 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
 - 😄 Pronouns: She/Her
 - :round_pushpin: Based in Bengaluru, India
