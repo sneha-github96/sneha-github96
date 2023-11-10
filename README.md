@@ -20,6 +20,8 @@ I love learning, and sharing my knowledge with others.
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
+## :page_facing_up: Bio
+
 - 🌱 I’m currently working on contributing to open-source projects that inspire me :sparkles:.
 - 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
 - 😄 Pronouns: She/Her
