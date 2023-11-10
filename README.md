@@ -19,6 +19,7 @@ I love learning, and sharing my knowledge with others.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="https://octodex.github.com/nuxtocat/"/>
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/sneha-github96/sneha-github96/blob/main/code.gif))
 
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
 - 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
