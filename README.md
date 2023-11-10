@@ -18,8 +18,7 @@ I love learning, and sharing my knowledge with others.
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://octodex.github.com/nuxtocat/"/>
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/sneha-github96/sneha-github96/blob/main/code.gif))
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 - 🌱 I’m currently working on making open-source contributions to docs that inspire me :sparkles:.
 - 💬 Ask me about: documentation, devRel, building accessible docs, and project management.
